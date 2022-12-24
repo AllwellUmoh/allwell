@@ -1,2 +1,1 @@
-# allwell
-just for the start
+# simple_shell
